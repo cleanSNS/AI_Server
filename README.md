@@ -17,11 +17,14 @@ python --version
 pip install -r requirements.txt
 pip install torch --extra-index-url https://download.pytorch.org/whl/cpu
  
-### 인공지능 weight 다운로드
+### 필요한 파일 다운로드
+다음 파일들을 다운 받아서 동일한 폴더에 배치
+
+#### 인공지능 weight 다운로드
 https://drive.google.com/drive/folders/1--rBur0qpMURVvbnKJ_yREaLeEQlxgEs?usp=share_link
 https://drive.google.com/drive/folders/1NBu7g-xdP49BpmNh2dUJcNUOQdGQc4iF?usp=share_link
 
-### dataset 다운로드
+#### dataset 다운로드
 https://drive.google.com/file/d/1dkiQz0s4KTyvV6lTYGbHpHhH727zWI6y/view?usp=share_link
 
 
