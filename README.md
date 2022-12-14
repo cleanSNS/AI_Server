@@ -1,10 +1,12 @@
-# 가상환경 설정
-- pip list 참조
+sudo apt install python3.7 python3-venv python3.7-venv
 
-# 서버 실행
-- 가상환경 실행
-  . venv/bin/activate
-- 서버 실행
+python3.7 -m venv <폴더 명>
+
+. <폴더명>/bin/activate
+
+python --versio 
+>> 3.7.15
+
 ```
 uvicorn <파일 명>:app --reload --host=0.0.0.0 --port=8000
 ```
