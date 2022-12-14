@@ -1,3 +1,5 @@
+ec2(t2.medium 이상)에서만 동작합니다. 
+
 sudo apt install python3.7 python3-venv python3.7-venv
 
 python3.7 -m venv <폴더 명>
