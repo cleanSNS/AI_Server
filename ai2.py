@@ -73,7 +73,7 @@ outputs = net
 
 modeltf2 = tf.keras.models.Model(inputs = [input_ids,attention_masks],outputs = outputs)
 
-modeltf2.load_weights('bert_sentence/001')
+modeltf2.load_weights('sentence_classifier/001')
 
 import pandas as pd
 import numpy as np
