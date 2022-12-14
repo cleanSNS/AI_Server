@@ -22,6 +22,7 @@ pip install torch --extra-index-url https://download.pytorch.org/whl/cpu
 
 #### 인공지능 weight 다운로드
 https://drive.google.com/drive/folders/1--rBur0qpMURVvbnKJ_yREaLeEQlxgEs?usp=share_link
+
 https://drive.google.com/drive/folders/1NBu7g-xdP49BpmNh2dUJcNUOQdGQc4iF?usp=share_link
 
 #### dataset 다운로드
