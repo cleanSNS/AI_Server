@@ -28,7 +28,21 @@ https://drive.google.com/drive/folders/1NBu7g-xdP49BpmNh2dUJcNUOQdGQc4iF?usp=sha
 https://drive.google.com/file/d/15EV3_mahFce17TMmJ_KgIzdFFcHKiLDT/view?usp=share_link
 
 
+### colab
+- Swear Word Detector
+문장의 각 토큰이 욕설인지 아닌 지 확인
+https://colab.research.google.com/drive/1y8vJg8gvlv86r4fipOX0ERUsqaLRmiaz?usp=sharing
+
+- Sentence Classifier
+문장에 욕설이 있는 지 확인
+
+
 ### 서버 실행
+- ai.py : swear word detector만 존재하는 서버파일
+- ai2.py : swear word detector + sentence classifier가 존재하는 서버파일
+
 ```
 uvicorn <파일 명>:app --reload --host=0.0.0.0 --port=8000
+
+# uvicorn ai:app --reload --host=0.0.0.0 --port=8000
 ```
