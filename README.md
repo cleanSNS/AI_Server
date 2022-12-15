@@ -39,7 +39,7 @@ https://drive.google.com/file/d/15EV3_mahFce17TMmJ_KgIzdFFcHKiLDT/view?usp=share
 
 #### Sentence Classifier
 문장에 욕설이 있는 지 확인
-https://colab.research.google.com/drive/1CWRCv5zvGI-AT1XWMYX-iurVVtpDHpOq?usp=sharing
+https://colab.research.google.com/drive/1qN6BV4YQke0x4GYLju653ln1USayLsd_?usp=sharing
 
 **dataset 다운로드**
 
