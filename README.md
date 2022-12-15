@@ -34,7 +34,7 @@ https://drive.google.com/drive/folders/1Ue9TGgZ1z0kZPGv-IR7Crx2wq9Z-a7Xq?usp=sha
 https://colab.research.google.com/drive/1y8vJg8gvlv86r4fipOX0ERUsqaLRmiaz?usp=sharing
 
 **dataset 다운로드**
-- DataWordPiece.csv
+
 https://drive.google.com/file/d/15EV3_mahFce17TMmJ_KgIzdFFcHKiLDT/view?usp=share_link
 
 #### Sentence Classifier
@@ -42,6 +42,7 @@ https://drive.google.com/file/d/15EV3_mahFce17TMmJ_KgIzdFFcHKiLDT/view?usp=share
 https://colab.research.google.com/drive/1CWRCv5zvGI-AT1XWMYX-iurVVtpDHpOq?usp=sharing
 
 **dataset 다운로드**
+
 https://drive.google.com/file/d/1QZ-_IZ9td2WErFQlucoqsi5TjPRBvL5h/view?usp=sharing
 https://drive.google.com/file/d/1BkaEXOYVF4sQMCSnZFvxJvnbyFvjzMi9/view?usp=sharing
 https://drive.google.com/file/d/1iq8bKboFybBl_vTs_5aqbz1_gkyOyHqR/view?usp=sharing
